@@ -1,2 +1,2 @@
 # vaccineManagementWebsite
-This is a website build in my web programming class to simulate a vaccine management website.
+This is a project I worked on in my web development class. This website is designed to have a database of vaccines and patients. Depending if you login as administrator or as a regular user will change what level of access you have on the website. Such as edit the data like adding more vaccines that are available. Some information that the tables show are different types of vaccines, amount of vaccines available, the amount of doses required for a vaccine, wether a patient has a vaccine, what kind of vaccine they received, and what day a patient got the vaccine. 
